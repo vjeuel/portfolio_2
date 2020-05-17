@@ -384,9 +384,6 @@ footer {
    grid-template-columns: repeat(auto-fit, minmax(25rem, 1fr));
    grid-template-rows: repeat(auto-fit, minmax(35rem, 1fr));
    grid-gap: 4rem;
-
-   border: rebeccapurple solid 2px;
-   
 }
 }
 
