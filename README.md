@@ -1,8 +1,8 @@
 # **Homework-2**
 
-This is my [portfolio website](https://vjeuel.github.io/Homework-2.1), which is divided in 3 main pages:
+This is my [portfolio website](https://vjeuel.github.io/portfolio_2), which is divided in 3 main pages:
 
-[<img src="https://vjeuel.github.io/Homework-2a/images/readme-pic.png" target="_blank">](https://vjeuel.github.io/Homework-2.1)
+[<img src="https://vjeuel.github.io/Homework-2a/images/readme-pic.png" target="_blank">](https://vjeuel.github.io/portfolio_2)
 
 ## **About**
 Just a quick Hello, where I tell where and what I am studying, hobbies and a bit about myself.
@@ -17,9 +17,6 @@ A few projects and past class assignments that I have worked and am working on a
 
 ## **Contact**
 Invitation to creativity and where to connect with me.
-
-
-
 
 <br>
 <br>
