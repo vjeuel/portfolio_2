@@ -1,5 +1,3 @@
-# **Homework-2**
-
 This is my [portfolio website](https://vjeuel.github.io/portfolio_2), which is divided in 3 main pages:
 
 [<img src="https://vjeuel.github.io/Homework-2a/images/readme-pic.png" target="_blank">](https://vjeuel.github.io/portfolio_2)
