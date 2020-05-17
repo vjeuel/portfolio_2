@@ -3,7 +3,7 @@ $(document).ready(function () {
    var projectArr = [{
       id: "hungry-at-home",
       href: "https://vjeuel.github.io/food_api_app/' target='_blank'",
-      url: "images/hungry_at_home_api_connection.png",
+      url: "./images/hungry_at_home_api_connection.png",
       title: "Hungry at Home",
       about: "API connected website"
    },{
